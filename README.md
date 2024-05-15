@@ -84,3 +84,9 @@ To run this project, you will need to add the following environment variables to
 `REDIS_HOST` (this is optional if you want to use Redis)
 
 `CACHE_TTL` (this is optional if you want to use Redis)
+
+
+
+## Documentation
+
+[How to SETUP Redis](https://redis.io/docs/latest/operate/oss_and_stack/install/install-redis/)
