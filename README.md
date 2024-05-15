@@ -3,7 +3,7 @@
 
 **Please Read This Documenation Before You Running this Microservice**
 
-This microservices is not tested in any platform services, i tried to deploy to heroku, but nowdays heroku asking credit card details if you want to use their service. but this Microservice working fine on my local
+This microservice is not tested in any platform services, i tried to deploy to heroku, but nowdays heroku asking credit card details if you want to use their service. but this Microservice working fine on my local
 
 
 ## Installation
@@ -16,7 +16,7 @@ Install microservice with npm
 
 ## Build Project
 
-Since the project is in typescript if you want to build the project you need to ru
+Since the project is in typescript if you want to build the project you need to run
 
 ```bash
   npm run build
